@@ -3,7 +3,7 @@ title: 'Project documentation template'
 disqus: hackmd
 ---
 
-Tag der Pflegenden Angehörigen und Profis
+12.5. Tag der Pflegenden Angehörigen und Profis
 ===
 Zusammen sind täglich 112 Mio. Tag und Nacht für Pflegebedürftige auf den Beinen - auf Intensiv und zu Hause.
 
@@ -28,37 +28,10 @@ Sonst:
 - noch 2 Monate bis Buffalo  ;)
 
 
-> I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it. [name=Bill Gates]
+> "Pflege wird oft ins Private verschoben" 
+[name=Frank Schulz-Nieswandt] 
 
 
-```gherkin=
-Feature: Shopping Cart
-  As a Shopper
-  I want to put items in my shopping cart
-  Because I want to manage items before I check out
-
-  Scenario: User adds item to cart
-    Given I'm a logged-in User
-    When I go to the Item page
-    And I click "Add item to cart"
-    Then the quantity of items in my cart should go up
-    And my subtotal should increment
-    And the warehouse inventory should decrement
-```
-
-> Read more about Gherkin here: https://docs.cucumber.io/gherkin/reference/
-
-User flows
----
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-Note left of Alice: Alice responds
-Alice->Bob: Where have you been?
-```
-
-> Read more about sequence-diagrams here: http://bramp.github.io/js-sequence-diagrams/
 
 3Monatsplan ... und nicht die Lerche!
 ---
@@ -85,9 +58,17 @@ gantt
     
     12. Mai - SPA's Feiern!                 :crit, milestone, 2022-05-12, 0d
     %% ---- easy read
-```
 
-> Read more about mermaid here: http://mermaid-js.github.io/mermaid/
+%% > Read more about mermaid here: http://mermaid-js.github.io/mermaid/
+
+```
+## KEIN Schlusswort
+
+> Aber natürlich braucht es um mehr zu erreichen für
+die pflegenden Angehörigen auch eine Stimme, die immer wieder den Finger in die Wunde legt, die immer wieder
+Ansprüche, Forderungen stellt, aber auf der anderen Seite pflegenden Angehörigen Vorschläge zu unterbreiten, sie
+zu schulen, Angebote zu zeigen, … sich gegenseitig zu unterstützen, sich zu vernetzen … [name= Heike Werner, Ministerin ]
+
 
 ## Appendix and FAQ
 
@@ -95,7 +76,7 @@ gantt
 **Find this document incomplete?** Leave a comment!
 :::
 
-### Wo kann man einfacher mitschreiben?
+### Wo kann man einfacher mitschreiben? - (Wem das hier zu nerdy erscheint)
 
 -> hier
 https://edupad.ch/p/12terMai
