@@ -4,4 +4,4 @@
 
 test
 
-[goo](google.com)
+[goo](https://google.com)
