@@ -10,7 +10,7 @@ lives under cc-by-sa
 
 do:
 
-the script
+the script is intended to be used as bookmarklet, was tested fine with opera, Matrix-element under w10
 
 - be aware to use separate post for the table
 - mark all md.formated table
@@ -18,6 +18,16 @@ the script
 - include clipboard instead of marked table
 - set prefix `/html`  followed by blank before first `<table>`
 
+ccustomized conversion md 2 html for use in matrix element
+find the following script also inside https://github.com/pflegende/2konsolidate/blob/master/md2htmx.js
+
+```
+
+```
+
+
+
+raw conversion md 2 html for every use in html universes
 find the following script also inside https://github.com/pflegende/2konsolidate/blob/master/md2htm.js
 
 ```
