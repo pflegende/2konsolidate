@@ -1,4 +1,4 @@
-javascript:(function(){
+javascript:(function(){ /* lives under cc-by-sa */
   const selection = window.getSelection().toString();
   if(!selection) { alert('Bitte markiere zuerst eine Markdown-Tabelle!'); return; }
   
