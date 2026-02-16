@@ -4,9 +4,13 @@ by gemini 16.2.2026, 03:46:24 https://share.google/aimode/R7cKvbbUyO2F9vfOm
 will be off on 23.2.2026, 02:46
 lives also on https://matrix.to/#/!FaSNYYihxMGhPlwGvv:matrix.org/$-trZKFLR7kNW0ALt4EnPpsvhMt_r6P2WBlKLgYsAZI4?via=matrix.org
 
+lives under cc-by-sa
+
 # md2html for use table2matrix
 
 do:
+
+the script
 
 - be aware to use separate post for the table
 - mark all md.formated table
@@ -17,7 +21,7 @@ do:
 find the following script also inside https://github.com/pflegende/2konsolidate/blob/master/md2htm.js
 
 ```
-/* js best pra ctice  */
+/* js best practice - lives under cc-by-sa */
 
 javascript:(function(){
   const selection = window.getSelection().toString();
