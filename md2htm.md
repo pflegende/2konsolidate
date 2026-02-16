@@ -18,6 +18,18 @@ the script is intended to be used as bookmarklet, was tested fine with opera, Ma
 - include clipboard instead of marked table
 - set prefix `/html`  followed by blank before first `<table>`
 
+
+Test date input:
+
+```
+a | table | fine
+--- | --- | ---
+a | row1 | col3
+a | row2| cl3
+
+```
+
+
 ccustomized conversion md 2 html for use in matrix element
 find the following script also inside https://github.com/pflegende/2konsolidate/blob/master/md2htmx.js
 
