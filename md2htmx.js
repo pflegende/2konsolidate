@@ -1,4 +1,4 @@
-javascript:(function(){ /* lives under cc-by-sa */
+javascript:(function(){ /* lives under cc-by-sa for matrix.elemt only */
   const selection = window.getSelection().toString();
   if(!selection) { alert('Bitte markiere zuerst eine Markdown-Tabelle!'); return; }
   
