@@ -14,6 +14,8 @@ do:
 - include clipboard instead of marked table
 - set prefix `/html`  followed by blank before first `<table>`
 
+find the following script also inside https://github.com/pflegende/2konsolidate/blob/master/md2htm.js
+
 ```
 /* js best pra ctice  */
 
