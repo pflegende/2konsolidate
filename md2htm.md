@@ -16,7 +16,7 @@ the script is intended to be used as bookmarklet, was tested fine with opera, Ma
 - mark all md.formated table
 - start bml md2html (in opera.LZL.t.md2htmx) or use code below
 - include clipboard instead of marked table
-- set prefix `/html`  followed by blank before first `<table>`
+- <del>set prefix `/html`  followed by blank before first `<table>` </del>
 
 
 Test date input:
