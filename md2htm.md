@@ -14,7 +14,7 @@ the script is intended to be used as bookmarklet, was tested fine with opera, Ma
 
 - be aware to use separate post for the table
 - mark all md.formated table
-- start bml md2html (in opera.LZL.t.md2htm) or use code below
+- start bml md2html (in opera.LZL.t.md2htmx) or use code below
 - include clipboard instead of marked table
 - set prefix `/html`  followed by blank before first `<table>`
 
